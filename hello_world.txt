@@ -1,1 +1,2 @@
 First, there was darkness.
+Then, VSCode appeared.
